@@ -30,7 +30,7 @@ import traceback
 
 
 def slow_type(element: WebElement, text: str, delay: float = 0.3):
-    """Send a text to an element one character at a time with a delay."""
+    """Kirim teks ke elemen satu karakter pada satu waktu dengan penundaan."""
     for character in text:
         element.send_keys(character)
         time.sleep(uniform(.1, .3))
@@ -350,13 +350,13 @@ if __name__ == "__main__":
     print(result)
 
     df = pd.read_csv(
-        r"C:\Users\Shubham Sharma\OneDrive - vRize India Private Ltd\Desktop\Projects\GmailCreator\address.csv")
+        r"C:\Users\NamaPCMU\PATH\address.csv")
 
     for data in result:
         if data:
             df.loc[len(df)] = data
 
     df.to_csv(
-        r"C:\Users\Shubham Sharma\OneDrive - vRize India Private Ltd\Desktop\Projects\GmailCreator\address.csv", index=False)
+        r"C:\Users\NamaPCMU\PATH\address.csv", index=False)
 
     # main()
