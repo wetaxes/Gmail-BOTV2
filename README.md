@@ -15,6 +15,14 @@
 
 - python main.py
 
+# Keterangan Setup 🤖
+
+- Perlu Di Perhatikan Di Bagian File Name Ini => https://github.com/tahaluindo/Gmail-BOTV2/blob/8040f15f3b1575840077f7427f9c82c99ff1ba28/proxy_config.py#L2
+
+- Ini Ganti Juga => https://github.com/tahaluindo/Gmail-BOTV2/blob/8040f15f3b1575840077f7427f9c82c99ff1ba28/main.py#L353
+
+- Sampai Ke Bawah 
+
 # NB 💡
 
 - Perlu Di Perhatikan Penggunan Script Ini
