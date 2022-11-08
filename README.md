@@ -13,6 +13,8 @@
 
 - cd Gmail-BOTV2
 
+- pip install requirements.txt
+
 - python main.py
 
 # Keterangan Setup 🤖
