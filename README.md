@@ -4,6 +4,7 @@
 
 # Alat Perang 🚀
 
+- https://www.anaconda.com/products/distribution
 - Python 3xx
 - Google Chrome
 
